@@ -21,7 +21,7 @@
 // ];
 
 const $element = $('.notesAnim');
-const imagePath = '/images';
+// const imagePath = 'https://cdn.jsdelivr.net/gh/omerkatzir/SMLanding@82b0c2a/images';
 const totalFrames = 18;
 const animationDuration = 1300;
 const timePerFrame = animationDuration / totalFrames;
